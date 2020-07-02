@@ -1,0 +1,179 @@
+
+*{
+    margin:  0px;
+    padding: 0px;
+}
+body
+{
+    background-color: blanchedalmond;
+    font-family: "Courier New";
+}
+.container
+{
+    background-color: darkgrey;
+    text-align: justify-all;
+    max-width: 1400px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#profile-style
+{
+    max-width: 1330px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding: 10px;
+
+}
+.leg
+{
+    alignment: center;
+    float: left;
+    text-align: justify;
+}
+.formal-hr
+{
+    border: solid black 5px;
+    max-width: 1330px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+h1,h2,h3,h4,h5,h6
+{   alignment: center;
+    font-family: "Arial Black";
+    text-decoration-style: solid;
+    text-decoration: cadetblue;
+    float: inside;
+
+}
+.profile-image
+{
+    width: 180px;
+    height: 200px;
+    border-color: aliceblue;
+    border-style: solid;
+    border-spacing: 3px;
+    border-width: 3px;
+    float: right;
+}
+.header-bio
+{
+    float: left;
+    padding: 2%;
+}
+.header-contact
+{
+    float: left;
+    padding: 2%;
+}
+.header-contact a
+{
+    text-decoration: whitesmoke;
+    color: olive;
+    font-weight: bold;
+}
+.header-contact a:hover
+{
+    text-decoration: underline;
+    color:indigo;
+}
+.div-clear
+{
+    clear:both;
+}
+.common-hr
+{
+    border:solid black 2px;
+    border-bottom: 10px;
+    width: 90%;
+    margin: 2%;
+}
+.div-left
+{
+    width: 400px;
+    height: 100%;
+    float: left;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    margin-left: 20px;
+    background-color: darkslateblue;
+}
+.div-left a
+{
+    text-decoration: whitesmoke;
+    color: olive;
+    font-weight: bold;
+}
+.div-left a:hover
+{
+    text-decoration: underline;
+    color:floralwhite;
+}
+.div-right
+{
+    width: 900px;
+    float: left;
+    margin: 20px;
+    background-color: lemonchiffon;
+    border-style: dashed;
+    border-color: olive;
+}
+.div-right a
+{
+    text-decoration: underline;
+    color: brown;
+}
+ .div-right a:hover
+ {
+     text-decoration: underline;
+     color: peru;
+ }
+ .left-div
+ {
+     width: 345px;
+     float: left;
+     border: 5px;
+     border-style: groove;
+     padding-top:6%;
+     padding-bottom:12%;
+     border-color: peru;
+     padding-left: 40px;
+     margin-left: 10px;
+     margin-right: 5px;
+
+ }
+.right-div
+ {  width: 880px;
+    float: right;
+    text-align: justify;
+    text-indent: 30px;
+    border: 5px;
+    border-style: dotted;
+    background-color: darkslateblue;
+    margin: 30px;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+ }
+.right-div a
+{
+    text-decoration: solid;
+    color: khaki;
+}
+.right-div a:hover
+{
+    text-decoration: solid;
+    color: hotpink;
+}
+footer
+{
+    font-family:"Comic Sans MS"
+    text-shadow: 2px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: olive;
+;
+
+}
